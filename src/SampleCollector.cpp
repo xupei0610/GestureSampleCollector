@@ -57,7 +57,7 @@ SampleCollector::~SampleCollector()
 //         x = (sample_image_size.width-size.width)/2;
 //     }
 //     cv::Mat tmp;
-//     cv::resize(sample, tmp, size);
+//     cv::resize(sample, tmp, size, 0, 0, cv::INTER_LINEAR);
 //     tmp.copyTo(result(cv::Rect(x,y,size.width,size.height)));
 
 //     return result;
