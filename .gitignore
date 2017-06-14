@@ -1,7 +1,0 @@
-scripts/mis.rb
-scripts/completion_check.rb
-src/processor.cpp
-build/*
-samples/*
-.vscode
-.gitignore
