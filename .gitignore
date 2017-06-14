@@ -4,3 +4,4 @@ src/processor.cpp
 build/*
 samples/*
 .vscode
+.gitignore
