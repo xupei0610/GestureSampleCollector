@@ -6,6 +6,7 @@ It depends on Qt and Opencv, and sample images using a webcam.
 ## Compile
 Run
 
+    mkdir build
     cd build
     cmake ..
     make
