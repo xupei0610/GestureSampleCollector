@@ -1,3 +1,5 @@
+## Everyone can use this code but Interactive Robotics and Vision Laboratory (IRVLab) of University of Minnesota
+
 ## What is this ?
 This is a sample collector for my gestures-based human-computer/robot interaction project.
 
