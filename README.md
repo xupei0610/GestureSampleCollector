@@ -1,7 +1,5 @@
-## Everyone can use this code but Interactive Robotics and Vision Laboratory (IRVLab) of University of Minnesota
-
 ## What is this ?
-This is a sample collector for my gestures-based human-computer/robot interaction project.
+This is a sample collector for my gestures-based human-computer/robot interaction project, but also can be used to collect any samples using web-cam for general use.
 
 It depends on Qt and Opencv, and sample images using a webcam. 
 
